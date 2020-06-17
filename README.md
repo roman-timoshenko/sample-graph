@@ -1,2 +1,2 @@
 # sample-graph
-Sample repository with very simple graph implementation
+Sample repository with a very simple graph implementation.
